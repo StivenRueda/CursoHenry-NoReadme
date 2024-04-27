@@ -1,2 +1,4 @@
-# Curso-Henry
-Aprenderé a crear un repositorio y un commit en la nube
+Evinzon Stiven Rueda Hernandez
+
+En este proyecto veremos como crear un repositorio en la nube y editarlo
+
